@@ -1,3 +1,3 @@
-# tex-templates
+# Tex Templates
 
 Latex templates inspired by https://github.com/SeniorMars
